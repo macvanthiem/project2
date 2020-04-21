@@ -1,0 +1,24 @@
+Gravity
+Gravity is a force that attracts objects. It is also the force that makes objects fall down when you drop them. Because of gravity things on earth have a certain weight. Gravity on Earth pulls objects to the centre of the planet.
+Every time you throw a ball up into the air it is pulled back to Earth. This occurs in nature all the time.
+Discovery of gravity
+Ancient astronomers observed the movements of the moon and the planets across the sky very carefully. In the 17 th century the English scientist and mathematician Isaac Newton wondered why the moon and the planets didn't simply fly off into outer space but always moved in a curve around the Earth and the sun. He found out that the same force that pulled an apple back to the ground also kept the moon moving around the Earth.
+He discovered that the moon's orbit is the result of two different movements. The first motion makes the moon fly along a straight line in space. A planet will always follow such a line if nothing else changes its direction or speed. The second force pulls the moon towards the Earth. If you put both movements together you get a curved path around the Earth.
+Newton also found out that every body or object has a force of gravity , and that every body pulls other bodies towards it. He also explained that gravity depends on the mass of an object or the amount of material that it has. Therefore the sun, which has a very large mass, has a greater force of gravity than the Earth, so the Earth moves around the sun. The moon goes around the Earth because the Earth's gravity is larger than the moon's.
+The force of gravity also depends on the distance between two objects. If they are close together gravity between them is greater.
+Mass and Weight
+Mass and weight are not the same. The mass of a body, its volume, always stays the same. Weight is the pull of gravity on an object. On Earth, an astronaut may weigh 70 kg. However when the same astronaut walks on the moon he weighs only a sixth - about 12 kg because the moon has less mass than the Earth and therefore its gravitational pull is smaller.
+If you stand on scales you can see how much your body is pulled towards the centre of the Earth. This is your weight.
+Falling Bodies
+Newton's law of gravity says that objects accelerate when they are dropped farther away from the surface. The acceleration near the Earth's surface is about 9.8 metres per second. Bodies falling in air are slowed down by air resistance. In vacuum, a feather and a marble would fall down at the same speed but in the air the larger surface of the feather slows it down.
+Spacecraft and Satellites
+Spacecraft and satellites travel around the Earth in a similar way. The Earth's gravity keeps them in orbit and their speed prevents them from falling back to the Earth.
+Astronauts who are inside a spacecraft that travels around the Earth feel weightlessness. They float inside the spacecraft because they are travelling at the same speed as the spacecraft.
+The Earth's Gravity
+The force of gravity is not the same everywhere on Earth. It depends on
+the distance from the centre of the Earth
+the spin or rotation of the Earth
+A house at the seaside, for example, is closer to the Earth's centre. Gravity is stronger here than at a house up in the mountains.
+The Earth's spin also reduces the strength of gravity. The centrifugal force causes a body or an object to move in a straight line unless something tries to change its path. At the equator the centrifugal effect is greater than anywhere else on our planet. An object must travel 40,000 km during one rotation of the planet. The distance and the centrifugal force decrease when you move towards the poles. Therefore you would weigh more at the poles than at the equator.
+For this reason spacecraft are launched from places that are as near to the equator as possible. In this way it takes less fuel and power to escape the Earth's gravitational force and get into orbit.
+Gravity also holds our atmosphere together. We wouldn't see any clouds or rain if there were no gravity.
