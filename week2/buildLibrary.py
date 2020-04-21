@@ -30,7 +30,7 @@ def removeStopWord(results, stopwords):
     return content
 
 def makeUrl(filename):
-    url = 'G:\\Python\\ML\\NB\\raw_data\\' + str(filename) + '.txt'
+    url = 'G:\\Github\\project2\\week2\\raw_data\\' + str(filename) + '.txt'
     return url
 
 k = 48
@@ -42,7 +42,7 @@ while (k != 0):
 results = list(set(results))
 results = removeStopWord(results, stopwords)
 
-with open('G:\\Python\\ML\\NB\\prepare_data\\library.txt', "w") as outfile:
+with open('G:\\Github\\project2\\week2\\prepare_data\\library.txt', "w") as outfile:
     for result in results:
         outfile.write(result+' ')
 
