@@ -1,0 +1,47 @@
+Electricity
+Everything is made up of atoms. Each one of them has three particles : protons, neutrons and electrons. Electrons spin around the centre of an atom. They have a negative charge. Protons, which are in the centre of atoms, have a positive charge.
+Normally, an atom has as many protons as it has electrons. It is stable or balanced. Carbon, for example has six protons and six electrons.
+Scientists can make electrons travel from one atom to another. An atom that loses electrons is positively charged, an atom that gets more electrons is negatively charged.
+Electricity is created when electrons move between atoms. Positive atoms look for free negative electrons and attract them, so that they can be balanced.
+Conductors and Insulators
+Electricity can pass through some objects better than through others. Conductors are materials through which electrons can travel more freely. Copper, aluminium, steel and other metals are good conductors. So are some liquids like saltwater.
+Insulators are materials in which electrons cannot move around. They stay in place. Glass, rubber, plastic or dry wood are good insulators. They are important for your safety, because without them, you couldn't touch a hot pan or plug in a TV set.
+Electric Current
+When electrons move through a conductor an electric current is created. A current that always flows in one direction is called a direct current (DC) . A battery for example, produces a direct current. A current that flows back and forth is called an alternating current (AC) .
+Electric Circuits
+Electrons cannot jump freely through the air to a positively charged atom. They need a circuit to move. When a source of energy, like a battery, is connected to a light bulb the electrons can move from the battery to the light bulb and back again. We call this an electric circuit.
+Sometimes there are many circuits in an electrical device that make it work. A TV set or a computer may have millions of parts that are connected to each other in different ways.
+You can stop the current from flowing by putting a switch into the circuit. You can open the circuit and stop electrons from moving.
+A piece of metal or wire can also be used to produce heat. When an electrical current passes through such metal it can be slowed down by resistance. This causes friction and makes the wires hot. That's why you can toast your bread in a toaster or dry your hair with warm air from a hairdryer.
+In some cases wires can become too hot if too many electrons flow through them. Special switches ,called fuses, protect the wiring in many buildings .
+Kinds of electricity
+Static electricity
+happens when there is a build-up of electrons
+it stays in one place and then jumps to an object
+it does not need a closed circuit to flow
+it is the kind of electricity you feel when you rub your pullover against an object or when you drag your feet over a carpet.
+lightning is a form of static electricity
+Current electricity
+happens when electrons flow freely between objects
+it needs a conductor-something in which it can flow , like a wire.
+current electricity needs a closed circuit
+it is in many electrical appliances in our homes - toasters, TV sets , computers.
+a battery is a form of current electricity
+How batteries work
+A battery has liquid or paste in it that helps it produce electric charges. The flat end of the battery has a negative charge and the end with the bump has a positive charge.
+When you link a wire between both ends a current flows. When the current passes through a light bulb electric energy is converted into light.
+The chemicals in the battery keep the ends charged and the battery going. As times passes, the chemical becomes weaker and weaker and the battery cannot produce any more energy.
+How electricity is produced
+Generators are used to transform mechanical energy into electrical energy. A magnet rotates inside a coil of wire. When the magnet moves, an electric current is produced in the wire.
+Most power stations use turbines to make the generator rotate. Water is heated to make steam , which pushes the blades of the turbine. Gas, oil or coal can be used to heat the water. Some countries build power stations on rivers, where the moving water pushes the turbine blades.
+How electricity is measured
+Electricity is measured in watts, named after James Watt who invented the steam engine. It would take about 750 watts to equal one horsepower.
+A kilowatt-hour is the energy of 1,000 watts that work for one hour. If, for example, you use a 100-watt light bulb for 10 hours you have used 1 kilowatt of electricity.
+How electricity is transported
+The electricity produced by a generator travels along cables to a transformer that changes the voltage of electricity. Power lines carry the high-voltage electricity over very long distances. When it reaches your home town another transformer lowers the voltage and smaller power lines bring it to homes, offices and factories.
+Electrical safety
+It is important to understand why and how you can protect yourself from electrical injuries.
+Electric shock occurs when an electric current passes through your body. It can lead to heart failure and can damage other parts of your body. It can also burn your skin and other body tissues.
+A very weak electrical object, like a battery, cannot do any harm to you, but inside the house you have devices and machines that use 220 volts.
+Most machines in your house have safety features to protect you. It something goes wrong, a special wire leads the electricity to the ground where nothing can happen.
+There are also electrical dangers outside your house. Trees that touch power lines can be dangerous. Lightning has more than enough electricity to kill a person. If you get caught in a thunderstorm stay away from open fields and high places. One of the safest places is your car, because lightning will only hit the outside metal of the car.
